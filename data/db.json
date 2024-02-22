@@ -1,24 +1,19 @@
 {
-    "tasks": [
-        {
-            "id": 1,
-            "title": "play with friends",
-            "isFav": true
-        },
-        {
-            "id": 2,
-            "title": "talk with girl friend",
-            "isFav": false
-        },
-        {
-            "id": 3,
-            "title": "get brand new laptop",
-            "isFav": true
-        },
-        {
-            "title": "eat pizza",
-            "isFav": false,
-            "id": 4
-        }
-    ]
+  "tasks": [
+    {
+      "id": "1",
+      "title": "play with friends",
+      "isFav": false
+    },
+    {
+      "id": "3",
+      "title": "get brand new laptop",
+      "isFav": true
+    },
+    {
+      "title": "eat pizza",
+      "isFav": true,
+      "id": "4"
+    }
+  ]
 }
